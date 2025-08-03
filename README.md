@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **NicoleRobin/nicolerobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+Hi, I'm robin zhang, a Backend Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/nicolerobin/nicolerobin/actions" target="_blank">Actions</a>:
+
+<table width="960px">
+<tr>
+</tr>
+</table>
