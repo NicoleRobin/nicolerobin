@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-Hi, I'm robin zhang, a Backend Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/nicolerobin/nicolerobin/actions" target="_blank">Actions</a>:
+Hi, I'm robin zhang, a Backend Engineer from China, also dabbling a bit in Go, Python, C++, and Rust. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/nicolerobin/nicolerobin/actions" target="_blank">Actions</a>:
 
 <table width="960px">
 <tr>
